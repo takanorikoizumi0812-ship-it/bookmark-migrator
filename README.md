@@ -1,6 +1,6 @@
 # Bookmark Migrator
 
-Safariのお気に入りを、Chrome, Vivaldi, Braveなどのブラウザへ一括で移行できるMac用アプリです。
+Safariをはじめとする各ブラウザのお気に入りを、Chrome, Vivaldi, Braveなどのブラウザへ一括で移行できるMac用アプリです。
 
 ## 🚀 ダウンロードと使い方
 1. 画面右側の **「Releases」** から、最新の `.zip` ファイルをダウンロードして解凍します。
